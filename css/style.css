@@ -50,6 +50,7 @@ h2.common-h2 {
     font-size: 40px;
     line-height: 54px;
     color: #707070;
+    text-transform: capitalize;
 }
 
 /* Hero Section */
@@ -249,4 +250,35 @@ section#about-me {
     font-size: 16px;
     line-height: 26px;
     color: #18191F;
+}
+
+/* Footer Section */
+
+footer#footer {
+    background: #0B0D17;
+    padding: 37px 0 115px 0;
+    text-align: center;
+}
+
+footer#footer h3 {
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 41px;
+    color: #5B5B5B;
+}
+
+footer#footer h3 span {
+    background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+footer#footer p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    padding-top: 37px;
 }
