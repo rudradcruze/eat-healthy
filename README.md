@@ -5,7 +5,7 @@
 <h2>The full site was divided into 5 section</h2>
 <ul>
     <li><a href="rudradcruze.github.io/eat-healthy/#hero">Header Section (Hero Section)</a></li>
-    <li><a href="rudradcruze.github.io/eat-healthy/#about-me">About Me Section</a></li>i
+    <li><a href="rudradcruze.github.io/eat-healthy/#about-me">About Me Section</a></li>
     <li><a href="rudradcruze.github.io/eat-healthy/#recipie">Recipie Section</a></li>
     <li><a href="rudradcruze.github.io/eat-healthy/#followers">Followers Section</a></li>
     <li><a href="rudradcruze.github.io/eat-healthy/#footer">Footer Section</a></li>
